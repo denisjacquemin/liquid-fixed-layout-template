@@ -1,6 +1,6 @@
 == Nested Form
 
-Liquid/fixed layout template with 2 columns + header/footer
+HTML5 Liquid/fixed layout template with 2 columns + header/footer
 
 based on http://html5boilerplate.com/
 
