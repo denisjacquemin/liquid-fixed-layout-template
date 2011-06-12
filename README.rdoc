@@ -6,7 +6,7 @@ based on http://html5boilerplate.com/
 
 == Contributing
 
-Feel free to contibute
+Feel free to contribute
 
 == License
 
