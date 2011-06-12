@@ -1,0 +1,30 @@
+body #container header
+{
+	height: 50px;
+	background-color: #666;
+	margin-bottom: 10px;
+}
+
+body #container #main nav
+{
+	float: left;
+	width: 250px;
+	height: 500px;
+	background-color: #999;
+	margin-bottom: 10px;
+}
+
+body #container #main #content
+{
+	margin: 0 0 10px 280px;
+	height: 500px;
+	background-color: #999;
+}
+
+body #container footer
+{
+	clear: both;
+	height: 50px;
+	background-color: #666;
+	margin-bottom: 10px;
+}

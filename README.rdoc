@@ -1,0 +1,13 @@
+== Nested Form
+
+Liquid/fixed layout template with 2 columns + header/footer
+
+based on http://html5boilerplate.com/
+
+== Contributing
+
+Feel free to contibute
+
+== License
+
+This template is released under the MIT license.

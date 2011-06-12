@@ -1,0 +1,10 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Author: Denis Jacquemin
+  Site: https://github.com/denisjacquemin
+  Twitter: @denisjacquemin
+  Location: Belgium
+
